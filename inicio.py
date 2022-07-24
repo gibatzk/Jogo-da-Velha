@@ -13,4 +13,4 @@ def JogoDaVelha():
   ImprimirTabuleiro()
 
 JogoDaVelha()
-#motando o tabuleiro
+#montando o tabuleiro
